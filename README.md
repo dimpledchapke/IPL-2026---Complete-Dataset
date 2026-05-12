@@ -1,5 +1,6 @@
 # IPL-2026---Complete-Dataset
 Data Analytic Project-IPL 2026 - Complete Dataset using Python, SQL, Tableau
+
 🏏 Overview
 
 This project focuses on analyzing the IPL 2026 dataset using Python, SQL, and Tableau to uncover insights related to team performance, player statistics, match trends, and venue analysis.
@@ -84,9 +85,11 @@ Team performance charts
 Player analysis
 Match trends
 Interactive filters
+
 7️⃣ Reporting & Presentation
 Created project report in PDF format
 Developed project presentation using Gamma
+
 📊 Dashboard Features
 Tableau Dashboard Includes:
 🏆 Top Winning Teams
@@ -96,6 +99,8 @@ Tableau Dashboard Includes:
 🏟️ Venue Insights
 📊 KPI Summary Cards
 🎛️ Interactive Filters & Parameters
+
+
 📈 Key Results
 Identified top-performing teams based on wins and Net Run Rate
 Analyzed batting and bowling performance trends
